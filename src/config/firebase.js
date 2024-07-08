@@ -6,7 +6,7 @@ import {getFirestore} from "firebase/firestore"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  
+  //google API key to be used here hidden for security purposes
   authDomain: "vite-contact-a3215.firebaseapp.com",
   projectId: "vite-contact-a3215",
   storageBucket: "vite-contact-a3215.appspot.com",
